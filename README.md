@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I'm currently learning Rust and Nest JS and updating knowledge on React v18<br>📌 I'm currently working as a FullStack Software Engineer (MERN) at Bazaarvoice<br>💡 I'm learning 🇪🇸, so not only interested in programming languages<br>⚡️ Fun fact about me: Survived a tropical storm in South Korea 🇰🇷 on a hotel rooftop in a tent<br>
+🚀 I'm currently learning Rust and Nest JS and updating knowledge on React v18<br>📌 I'm currently working as a FullStack Software Engineer (MERN) at Bazaarvoice <br>💡 I'm learning 🇪🇸, so not only interested in programming languages<br>⚡️ Fun fact about me: Survived a tropical storm in South Korea 🇰🇷 on a hotel rooftop in a tent<br>
 
 
 ## 🌐 Socials:
